@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------------------------------------------------
+Challenge 1 (easy)
+
+Find the key and decrypt the following ciphertext which is encrypted by shift cipher with the key.
+
+Encryption scheme: shift cipher
+
+Ciphertext: KZAXLAKWSKQXGJEWLGVWUJQHL
+
+---------------------------------------------------------------------------------------------------------------------
+Challenge 2 (hard)
+
+Find the key with a length of 3 and decrpyt the following ciphertext which is encrypted the Vigenere cipher with the key.
+
+Encryption scheme: Vigenere cipher
+
+Ciphertext: DIHKCAFFYDGNIYVYWBSAEFNHQUGNIAX
+
+(Hint: the plaintext starts with 'Y')
+---------------------------------------------------------------------------------------------------------------------
